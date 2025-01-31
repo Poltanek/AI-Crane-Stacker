@@ -63,4 +63,20 @@ Breadth-first search (BFS) A*
 - **Features:** Height, Width, Movement Frequency, Dock time
 - **Goal:** Train a model to predict container priority (high/low).
 
+# Appendix
+State 1
+![image](https://github.com/user-attachments/assets/a7810b02-8bb2-4d4d-bdec-2abe8d8efec0)
+
+State 2
+![image](https://github.com/user-attachments/assets/fbcbb7b1-ed82-43df-9bc6-02783b099a80)
+
+State 3
+![image](https://github.com/user-attachments/assets/c935f247-275f-4a2f-8fcd-7d3e68a262bd)
+
+State 4
+![image](https://github.com/user-attachments/assets/a7292c24-73c3-4a9d-95e3-490cec3f7e29)
+
+State 5
+![image](https://github.com/user-attachments/assets/5b08a21b-7473-4cbc-8eee-850446dc0967)
+
 
